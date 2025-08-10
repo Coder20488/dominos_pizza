@@ -1,0 +1,186 @@
+body {
+
+  text-align: center;
+  
+  height: 100%;
+  
+ 
+  
+}
+p {
+  color: black;
+  font-family: cursive
+}
+h1 {
+  font-weight: bold;
+  float: center;
+  color: #ff0033;
+  }
+.button { 
+
+  background-color: #4780fb;
+  border-radius: 10px;
+  border-style:groove;
+  border-color: blue;
+  color: black
+
+}
+.button2 { 
+  background-color: #2a2aff;
+  border-radius: 10px;
+  border-style:groove;
+  border-color: #ff0000;
+ 
+  
+  
+  
+}
+a{
+  color: black;
+  font-size: 25px;
+  font-family: cursive;
+  text-decoration: none
+}
+.logocenter{
+  float: center;
+  width: 270px
+}
+.button:hover {
+  background-color: #336ff2;}
+.desc.fontsize{ 
+  font-weight: normal;
+}
+
+}
+
+.imgdesc{
+  color: #81904f;
+}
+.founders {
+  float: center;
+  width:340px;
+  margin: 0px ;
+  height:120px;
+  width: 130px;
+  padding-bottom: 0px;
+}
+
+
+.store {
+  border-radius: 10px;
+  height: 220px;
+}
+
+h3{
+  font-weight: normal;
+}
+.products{
+  float: left;
+  height: 220px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  border-radius: 20px;}
+.products:hover{
+  height: 250px;
+  
+}
+.prod_desc{
+  text-align: left;
+  float: left;
+  font-size: 40px;
+  font-family: sans-serif
+}
+<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-hier {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-hier {
+  display: block;
+}
+</style>
+.heading_font{
+  font-family:cursive
+}
+.assets_graph{
+  height: 270px;
+}
+.revenue_graph{
+  height: 580px;
+}
+.purpose{
+  height: 340px;
+  border-radius: 20px;
+}
+.purpose_desc {
+  text-align:left;
+}
+.cc {
+  color: black;
+  font-family: sans-serif;
+  font-size: 13px
+  
+}
+.header2 {
+  text-decoration-line: underline
+}
+.piz_page {
+  height: 160px
+}
+.pizza_driver {
+  height: 310px;
+  border-radius: 15px;
+}
+.lead_words {
+  font-weight: normal;
+  height: 100px
+}
+.ccleft {
+  color: black;
+  font-family: sans-serif;
+  font-size: 13px;
+  float: left;}
+.frontpizza{
+  float: left;
+}
+
+.homedesc{
+font-weight: normal;
+}
+.leadinfo {
+  font-size: 30px;
+  
+}
+.bluecolor {
+  color: #4f4ff6
+}
+.link { 
+
+  background-color: #fb4781;
+  border-radius: 0px;
+  border-style:dotted;
+  border-color: blue;
+
+}
+
+
+  
+  
+  
+  
+  
+  
+  
+  
