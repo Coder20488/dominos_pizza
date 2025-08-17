@@ -1,1 +1,1 @@
-A replicated dominoes pizza website!
+Dominoes Pizza Website!
